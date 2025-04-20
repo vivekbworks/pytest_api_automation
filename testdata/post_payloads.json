@@ -1,0 +1,17 @@
+{
+    "create_post": {
+      "title": "my title",
+      "body": "body of post request added by vivek",
+      "userId": "1"
+    },
+    "update_post_put": {
+      "id": 1,
+      "title": "updated title by vivek",
+      "body": "updated body by vivek",
+      "userId": "1"
+    },
+    "update_post_patch": {
+      "title": "patched title"
+    }
+}
+  
